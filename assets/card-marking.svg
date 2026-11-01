@@ -34,7 +34,7 @@
 </style>
 <g clip-path="url(#c)">
   <rect width="1200" height="320" fill="url(#bg)"/>
-  <text class="k" x="40" y="60">FINAL YEAR GROUP PROJECT</text>
+  <text class="k" x="40" y="60">FINAL YEAR PROJECT</text>
   <text class="h" x="38" y="108">Java Marking System</text>
   <text class="q" x="40" y="144">Grades ZIP-submitted student code against</text>
   <text class="q" x="40" y="168">an assignment specification.</text>
