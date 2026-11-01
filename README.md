@@ -21,6 +21,8 @@
 
 <a href="https://github.com/Anish25012/Aurora"><img src="assets/card-aurora.svg" alt="Aurora: a desktop music player with 197 tests, 13 desktop checks and OAuth 2.0 PKCE" width="100%"></a>
 
+<p align="center"><a href="https://anish25012.github.io/Aurora/"><b>Try the live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/Anish25012/Aurora">See the code</a></p>
+
 <br>
 
 <a href="https://github.com/Anish25012/Java-marking-system"><img src="assets/card-marking.svg" alt="Java Marking System: a student submission is unpacked, tested and scored in under a minute, then PDF feedback and Excel results are produced" width="100%"></a>
