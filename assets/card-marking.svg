@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Java Marking System: a student submission is unpacked, tested and scored, then PDF feedback and an Excel row are produced.">
+<title>Java Marking System</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b0f0a"/><stop offset="1" stop-color="#2a1610"/></linearGradient>
+  <linearGradient id="hot" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f89820"/><stop offset="1" stop-color="#ff5d4d"/></linearGradient>
+  <clipPath id="c"><rect width="1200" height="320" rx="22"/></clipPath>
+</defs>
+<style>
+  .k{font:700 13px ui-monospace,SFMono-Regular,'Cascadia Mono',Consolas,'Liberation Mono',monospace;fill:#ffb765;letter-spacing:2.5px}
+  .h{font:800 38px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff;letter-spacing:-1px}
+  .q{font:400 17px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#d8c8bc}
+  .v{font:700 17px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+  .l{font:400 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#c0ada0}
+  .c{font:500 15px ui-monospace,SFMono-Regular,'Cascadia Mono',Consolas,'Liberation Mono',monospace}
+  .sc{font:800 44px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+  .f{font:600 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+  .g{font:400 12px ui-monospace,SFMono-Regular,'Cascadia Mono',Consolas,'Liberation Mono',monospace;fill:#c0ada0}
+  @keyframes t0{0%,13%{opacity:0}13.6%,95%{opacity:1}98%,100%{opacity:0}}.t0{animation:t0 14s linear infinite}
+  @keyframes t1{0%,18%{opacity:0}18.6%,95%{opacity:1}98%,100%{opacity:0}}.t1{animation:t1 14s linear infinite}
+  @keyframes t2{0%,23%{opacity:0}23.6%,95%{opacity:1}98%,100%{opacity:0}}.t2{animation:t2 14s linear infinite}
+  @keyframes t3{0%,28%{opacity:0}28.6%,95%{opacity:1}98%,100%{opacity:0}}.t3{animation:t3 14s linear infinite}
+  @keyframes t4{0%,33%{opacity:0}33.6%,95%{opacity:1}98%,100%{opacity:0}}.t4{animation:t4 14s linear infinite}
+  @keyframes t5{0%,38%{opacity:0}38.6%,95%{opacity:1}98%,100%{opacity:0}}.t5{animation:t5 14s linear infinite}
+  @keyframes t6{0%,43%{opacity:0}43.6%,95%{opacity:1}98%,100%{opacity:0}}.t6{animation:t6 14s linear infinite}
+  @keyframes t7{0%,48%{opacity:0}48.6%,95%{opacity:1}98%,100%{opacity:0}}.t7{animation:t7 14s linear infinite}
+  @keyframes ring{0%,28%{stroke-dashoffset:0}29%,43%{stroke-dashoffset:18.2}44%,100%{stroke-dashoffset:32.8}}.ring{animation:ring 14s linear infinite;stroke-dashoffset:32.8}
+  @keyframes s100{0%,0%{opacity:0}0.6%,25%{opacity:1}28%,100%{opacity:0}}.s100{animation:s100 14s linear infinite}
+  @keyframes s95{0%,28%{opacity:0}28.6%,40%{opacity:1}43%,100%{opacity:0}}.s95{animation:s95 14s linear infinite}
+  @keyframes s91{0%,43%{opacity:0}43.6%,95%{opacity:1}98%,100%{opacity:0}}.s91{animation:s91 14s linear infinite}
+  @keyframes pop{0%,55%{opacity:0;transform:translateY(14px)}58%,95%{opacity:1;transform:none}98%,100%{opacity:0}}.pdf{animation:pop 14s linear infinite}
+  @keyframes pop2{0%,61%{opacity:0;transform:translateY(14px)}64%,95%{opacity:1;transform:none}98%,100%{opacity:0}}.xls{animation:pop2 14s linear infinite}
+  @keyframes bar{0%{transform:scaleX(0)}64%,100%{transform:scaleX(1)}}.bar{transform-box:fill-box;transform-origin:0 50%;animation:bar 14s linear infinite}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}.s100,.s95{display:none}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <text class="k" x="40" y="60">FINAL YEAR PROJECT</text>
+  <text class="h" x="38" y="108">Java Marking System</text>
+  <text class="q" x="40" y="144">Grades ZIP-submitted student code against</text>
+  <text class="q" x="40" y="168">an assignment specification.</text>
+  <g transform="translate(40,206)"><rect width="172" height="62" rx="12" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="14" y="28" class="v">Under 1 minute</text><text x="14" y="48" class="l">per submission</text></g><g transform="translate(222,206)"><rect width="172" height="62" rx="12" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="14" y="28" class="v">100 submissions</text><text x="14" y="48" class="l">marked in testing</text></g>
+
+  <rect x="436" y="36" width="360" height="248" rx="14" fill="#120a07" stroke="#fff" stroke-opacity=".12"/>
+  <text x="458" y="66" class="c" fill="#ffb765">$ mark student_042.zip</text>
+  <g class="t0"><text x="462" y="104" class="c" fill="#7ee2a8">✓</text><text x="486" y="104" class="c" fill="#e8e3f7">GoalTest</text><text x="772" y="104" class="c" text-anchor="end" fill="#8f88ad">pass</text></g>
+<g class="t1"><text x="462" y="128" class="c" fill="#7ee2a8">✓</text><text x="486" y="128" class="c" fill="#e8e3f7">TimeTest</text><text x="772" y="128" class="c" text-anchor="end" fill="#8f88ad">pass</text></g>
+<g class="t2"><text x="462" y="152" class="c" fill="#7ee2a8">✓</text><text x="486" y="152" class="c" fill="#e8e3f7">LookTest</text><text x="772" y="152" class="c" text-anchor="end" fill="#8f88ad">pass</text></g>
+<g class="t3"><text x="462" y="176" class="c" fill="#ff7d7d">✗</text><text x="486" y="176" class="c" fill="#e8e3f7">ItemTest</text><text x="772" y="176" class="c" text-anchor="end" fill="#ff7d7d">-5 marks</text></g>
+<g class="t4"><text x="462" y="200" class="c" fill="#7ee2a8">✓</text><text x="486" y="200" class="c" fill="#e8e3f7">CharTest</text><text x="772" y="200" class="c" text-anchor="end" fill="#8f88ad">pass</text></g>
+<g class="t5"><text x="462" y="224" class="c" fill="#7ee2a8">✓</text><text x="486" y="224" class="c" fill="#e8e3f7">RoomTest</text><text x="772" y="224" class="c" text-anchor="end" fill="#8f88ad">pass</text></g>
+<g class="t6"><text x="462" y="248" class="c" fill="#ff7d7d">✗</text><text x="486" y="248" class="c" fill="#e8e3f7">TakeTest</text><text x="772" y="248" class="c" text-anchor="end" fill="#ff7d7d">-4 marks</text></g>
+<g class="t7"><text x="462" y="272" class="c" fill="#7ee2a8">✓</text><text x="486" y="272" class="c" fill="#e8e3f7">CookTest</text><text x="772" y="272" class="c" text-anchor="end" fill="#8f88ad">pass</text></g>
+
+  <circle cx="980" cy="108" r="58" fill="none" stroke="#fff" stroke-opacity=".1" stroke-width="10"/>
+  <circle class="ring" cx="980" cy="108" r="58" fill="none" stroke="url(#hot)" stroke-width="10" stroke-linecap="round" stroke-dasharray="364.4" transform="rotate(-90 980 108)"/>
+  <text x="980" y="124" text-anchor="middle" class="sc s100">100</text><text x="980" y="124" text-anchor="middle" class="sc s95">95</text><text x="980" y="124" text-anchor="middle" class="sc s91">91</text>
+  <text x="980" y="148" text-anchor="middle" class="g">out of 100</text>
+
+  <g class="pdf"><rect x="836" y="194" width="146" height="74" rx="10" fill="#fff" fill-opacity=".07" stroke="#ff5d4d" stroke-opacity=".6"/><text x="852" y="224" class="f">Feedback</text><text x="852" y="246" class="g">student_042.pdf</text></g>
+  <g class="xls"><rect x="994" y="194" width="146" height="74" rx="10" fill="#fff" fill-opacity=".07" stroke="#7ee2a8" stroke-opacity=".6"/><text x="1010" y="224" class="f">Results</text><text x="1010" y="246" class="g">marks.xlsx</text></g>
+
+  <rect x="0" y="315" width="1200" height="5" fill="#fff" fill-opacity=".08"/>
+  <rect class="bar" x="0" y="315" width="1200" height="5" fill="url(#hot)"/>
+</g></svg>
